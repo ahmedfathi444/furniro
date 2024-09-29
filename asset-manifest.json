@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/furniro/static/css/main.6884bcf5.css",
+    "main.js": "/furniro/static/js/main.ef03dd87.js",
+    "static/js/453.b729040e.chunk.js": "/furniro/static/js/453.b729040e.chunk.js",
+    "static/media/home-photo.jpeg": "/furniro/static/media/home-photo.4f262f67b813daedeedd.jpeg",
+    "static/media/checkout.png": "/furniro/static/media/checkout.2ea5ed2937f7835fd8fa.png",
+    "static/media/fa-solid-900.ttf": "/furniro/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/brows-bedroom.png": "/furniro/static/media/brows-bedroom.b057f6e7031ed91966f1.png",
+    "static/media/fa-brands-400.ttf": "/furniro/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/browse-living.png": "/furniro/static/media/browse-living.3ad48d8fc271d0413704.png",
+    "static/media/brows-dining.png": "/furniro/static/media/brows-dining.28c80b16cbbc91838872.png",
+    "static/media/fa-solid-900.woff2": "/furniro/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/furniro/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/sofa1.png": "/furniro/static/media/sofa1.97737694d6a890a44003.png",
+    "static/media/sofa2.png": "/furniro/static/media/sofa2.c8fc60503eef55921358.png",
+    "static/media/fa-regular-400.ttf": "/furniro/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/furniro/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/furniro/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/furniro/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/furniro/index.html",
+    "main.6884bcf5.css.map": "/furniro/static/css/main.6884bcf5.css.map",
+    "main.ef03dd87.js.map": "/furniro/static/js/main.ef03dd87.js.map",
+    "453.b729040e.chunk.js.map": "/furniro/static/js/453.b729040e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6884bcf5.css",
+    "static/js/main.ef03dd87.js"
+  ]
+}
