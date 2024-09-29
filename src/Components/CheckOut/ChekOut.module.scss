@@ -1,0 +1,45 @@
+@use "../../Variables/variables" as *;
+
+.checkoutHero {
+  // width: 300px;
+  // height: 300px;
+  min-height: 40vh;
+//   background-color: white;
+  background-image: url("../../Images/checkout.png");
+  background-size: cover; /* Make the image cover the container */
+  background-position: center center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.subtotal {
+  text-align: end;
+  &__total {
+    color: $main-color;
+    font-weight: 700;
+    font-size: 1.5rem;
+    //    font-size: 32px;
+  }
+}
+
+.orderBtn {
+  width: 300px;
+  border-radius: 15px;
+  border: 1px solid black;
+  padding: 10px 0px;
+  background-color: transparent;
+  margin-top: 20px;
+}
+
+.bgColor {
+  background-color: $bg-color;
+}
+
+@media screen and (max-width : 1200px){
+  .mr{
+    margin-right: 40px;
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["Footer.module.scss","../../Variables/_variables.scss","Footer.module.css"],"names":[],"mappings":"AAIQ;EACI,cCJI;EDKJ,eAAA;AEHZ;AFKQ;EACI,cCTG;ACMf;AFQS;EACO,cCdA;ACQhB;;AFcA;EAGY;IACI,aAAA;IACA,sBAAA;EEbd;EFeU;IACI,mBAAA;EEbd;EFkBM;IACI,YAAA;EEhBV;EFoBE;IACI,sBAAA;IACA,gBAAA;EElBN;AACF","file":"Footer.module.css"}

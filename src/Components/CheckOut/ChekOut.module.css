@@ -1,0 +1,38 @@
+.checkoutHero {
+  min-height: 40vh;
+  background-image: url("../../Images/checkout.png");
+  background-size: cover; /* Make the image cover the container */
+  background-position: center center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.subtotal {
+  text-align: end;
+}
+.subtotal__total {
+  color: #B88E2F;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.orderBtn {
+  width: 300px;
+  border-radius: 15px;
+  border: 1px solid black;
+  padding: 10px 0px;
+  background-color: transparent;
+  margin-top: 20px;
+}
+
+.bgColor {
+  background-color: #FAF3EA;
+}
+
+@media screen and (max-width: 1200px) {
+  .mr {
+    margin-right: 40px;
+  }
+}/*# sourceMappingURL=ChekOut.module.css.map */

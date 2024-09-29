@@ -1,0 +1,47 @@
+@use '../../Variables/variables' as *;
+
+.footer{
+    &__content{
+        & h5 {
+            color: $second-color;
+            font-size: 16px;
+        }
+        & p{
+            color:$color-black;
+    
+        }
+        &__header {
+            
+         &__content{
+                color: $second-color;
+        }
+    }
+    
+    }
+ 
+}
+
+@media screen and (max-width : 576px)  {
+    .footer{
+        &__content{
+            &__newsletter{
+                display: flex;
+                flex-direction: column;
+            }
+            &_subscribe {
+                margin-bottom: 50px;
+            }
+        }
+    }
+    .footer__content {
+        & input{
+            padding: 0px;
+        }
+
+    }
+    .subscribe{
+        background-color: aqua;
+        margin-top: 20px;
+      
+    }
+}

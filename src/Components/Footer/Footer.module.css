@@ -1,0 +1,27 @@
+.footer__content h5 {
+  color: #9F9F9F;
+  font-size: 16px;
+}
+.footer__content p {
+  color: #000000;
+}
+.footer__content__header__content {
+  color: #9F9F9F;
+}
+
+@media screen and (max-width: 576px) {
+  .footer__content__newsletter {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer__content_subscribe {
+    margin-bottom: 50px;
+  }
+  .footer__content input {
+    padding: 0px;
+  }
+  .subscribe {
+    background-color: aqua;
+    margin-top: 20px;
+  }
+}/*# sourceMappingURL=Footer.module.css.map */
